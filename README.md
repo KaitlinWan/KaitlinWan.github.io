@@ -1,2 +1,2 @@
-# KaitlinWan.github.io
+# Kaitlin Wan
 My Personal Website
